@@ -1,7 +1,7 @@
 Структура репозитория
 
 
-toxic-comments-moderation/
+toxic-comments-moderation/<br>
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
